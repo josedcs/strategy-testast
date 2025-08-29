@@ -86,7 +86,7 @@ def example_strategy():
 if __name__ == "__main__":
     # Example usage and testing
     strategy = TEstastStrategy()
-    print(f"Strategy '{strategyName}' initialized successfully!")
+    print(f"Strategy 'Stratt' initialized successfully!")
     
     # Example data loading
     symbols = ['SPY', 'QQQ', 'IWM']
